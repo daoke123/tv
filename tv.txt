@@ -1,0 +1,324 @@
+央视频道,#genre# 
+cctv1 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225710/index.m3u8
+cctv2 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225747/index.m3u8
+cctv3 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225606/index.m3u8
+cctv4 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
+cctv5 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225711/index.m3u8
+cctv5+ 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225689/index.m3u8
+cctv6 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225607/index.m3u8
+cctv7 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225733/index.m3u8
+cctv8 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225608/index.m3u8
+cctv9 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225734/index.m3u8
+cctv10 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225730/index.m3u8
+cctv12 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225731/index.m3u8
+cctv13标清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+cctv14 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225732/index.m3u8
+cctv17 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225765/index.m3u8
+省份频道,#genre# 
+河南移动4K测试源,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225961/index.m3u8
+河南卫视蓝光,http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296101.m3u8
+河南电视剧 高清,http://39.134.215.48:18890/PLTV/88888888/224/3221225944/index.m3u8
+浙江卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225612/index.m3u8
+江苏卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225613/index.m3u8
+湖南卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225610/index.m3u8
+江西卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225615/index.m3u8
+湖北卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225627/index.m3u8
+黑龙江卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225640/index.m3u8
+北京卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225749/index.m3u8
+辽宁卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
+东方卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
+CETV1 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
+重庆卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226737/index.m3u8
+山东卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226739/index.m3u8
+天津卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226742/index.m3u8
+广东卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226743/index.m3u8
+北京卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226724/index.m3u8
+深圳卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226725/index.m3u8
+湖南卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226727/index.m3u8
+四川卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226728/index.m3u8
+广东卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225699/index.m3u8
+东方卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225700/index.m3u8
+湖北卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225705/index.m3u8
+北京卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225701/index.m3u8
+安徽卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225727/index.m3u8
+北京卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225728/index.m3u8
+冬奥纪实 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225729/index.m3u8
+东方卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225735/index.m3u8
+广东卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225736/index.m3u8
+山东卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225737/index.m3u8
+纪实人文 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225738/index.m3u8
+天津卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225740/index.m3u8
+深圳卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225739/index.m3u8
+网络频道,#genre# 
+CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+峨嵋电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+黄金剧场,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/75/index.m3u8?&encrypt=
+军旅剧场,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/75/index.m3u8?&encrypt=
+抗战老片,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/75/index.m3u8?&encrypt=
+少林剧场,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179213/75/index.m3u8?&encrypt=
+高清大片,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?&encrypt=
+僵尸剧场,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/75/index.m3u8?&encrypt=
+怀旧老片,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/75/index.m3u8?&encrypt=
+武侠剧场,http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?&encrypt=
+精品网剧,http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?&encrypt=
+经典剧场,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/75/index.m3u8?&encrypt=
+精品剧场,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?&encrypt=
+高分影院,http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?&encrypt=
+新片影院,http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=
+华视火爆,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?&encrypt=
+成龙作品,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/50/index.m3u8?&encrypt=
+周星驰作品,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/75/index.m3u8?&encrypt=
+吴京作品,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/75/index.m3u8?&encrypt=
+刘德华作品,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&&encrypt=
+刘亦菲作品,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?&encrypt=
+高圆圆作品,http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002172-75/index.m3u8?&encrypt=
+古力娜扎作品,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/75/index.m3u8?&encrypt=
+刘涛作品,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/75/index.m3u8?&encrypt=
+金庸剧场,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?&encrypt=
+神探狄仁杰,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/75/index.m3u8?&encrypt=
+神探狄仁杰B,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
+爱情公寓,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/75/index.m3u8?&encrypt=
+包青天,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/75/index.m3u8?&encrypt=
+天龙八部,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?&encrypt=
+盗墓方法论,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?&encrypt=
+BBC独播,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/75/index.m3u8?&encrypt=
+SNH48剧场,http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-75/index.m3u8?&encrypt=
+风尚音乐,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/1000/index.m3u8?&encrypt=
+高清娱乐,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/1000/index.m3u8?&encrypt=
+爱好频道,#genre# 
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+Newtv,#genre# 
+Newtv动作电影,http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+Newtv动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+Newtv惊悚悬疑,http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+Newtv惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+Newtv明星大片,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+Newtv明星大片,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+Newtv家庭剧场,http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+Newtv家庭剧场,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+Newtv精品大剧,http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+Newtv精品大剧,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+Newtv古装剧场,http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+Newtv古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+Newtv爱情喜剧,http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+Newtv爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+Newtv军旅剧场,http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+Newtv军旅剧场,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+Newtv军事评论,http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+Newtv军事评论,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+Newtv金牌综艺,http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+Newtv金牌综艺,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+Newtv精品体育,http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+Newtv精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
+Newtv精品记录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+Newtv精品记录,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+超级综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+超级体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+超级剧集,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+金牌综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+农业致富,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+炫舞未来,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+明星大片,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+自由搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+海外综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+惊梀悬疑,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+爱情喜剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+精品大剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+军旅剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+军事评论,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+蓝光影视,#genre# 
+蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+蓝光影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+蓝光影视9台,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+蓝光影视10台,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+蓝光影视11台,http://stream.guihet.com/migu/index.php?id=625542369
+蓝光影视12台,http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+优酷轮播,#genre# 
+洪金宝,http://1009.jilu8.cn/yk.php?id=hjb
+周润发,http://1009.jilu8.cn/yk.php?id=zrf
+黎明,http://1009.jilu8.cn/yk.php?id=lm
+郭富城,http://1009.jilu8.cn/yk.php?id=gfc
+张学友,http://1009.jilu8.cn/yk.php?id=zxy
+郑中基,http://1009.jilu8.cn/yk.php?id=zzj
+林志玲,http://1009.jilu8.cn/yk.php?id=lzl
+任达华,http://1009.jilu8.cn/yk.php?id=rdh
+张家辉,http://1009.jilu8.cn/yk.php?id=zjh
+黄渤,http://1009.jilu8.cn/yk.php?id=hb
+周星驰,http://1009.jilu8.cn/yk.php?id=zxc
+吴彦祖,http://1009.jilu8.cn/yk.php?id=wyz
+刘德华,http://1009.jilu8.cn/yk.php?id=ldh
+李连杰,http://1009.jilu8.cn/yk.php?id=llj
+成龙,http://1009.jilu8.cn/yk.php?id=cl
+梁家辉,http://1009.jilu8.cn/yk.php?id=ljh
+刘青云,http://1009.jilu8.cn/yk.php?id=lqy
+奥斯卡电影,http://1009.jilu8.cn/yk.php?id=ask
+奇哈电视直播,http://www.dszbdq.cn/play/no.php
+欧美英雄电影,http://1009.jilu8.cn/yk.php?id=omyx
+粤语电影综艺,http://1009.jilu8.cn/yk.php?id=yydyzy
+警匪电影,http://1009.jilu8.cn/yk.php?id=jfdy
+粤语电影,http://1009.jilu8.cn/yk.php?id=yueyu
+深圳旁边经典影片,http://1009.jilu8.cn/yk.php?id=xgjdyp
+粤语动作大片,http://1009.jilu8.cn/yk.php?id=yueyudz
+深圳旁边喜剧贺岁,http://1009.jilu8.cn/yk.php?id=xgxjhs
+悬疑电影,http://1009.jilu8.cn/yk.php?id=xydy
+武侠电影,http://1009.jilu8.cn/yk.php?id=wxdy
+酷影厅亲子厅,http://1009.jilu8.cn/yk.php?id=qzt
+酷影厅硬汉厅,http://1009.jilu8.cn/yk.php?id=yht
+爱国影片,http://1009.jilu8.cn/yk.php?id=agyp
+爱国题材电影,http://1009.jilu8.cn/yk.php?id=agdy
+热血电影,http://1009.jilu8.cn/yk.php?id=rxdy
+经典校园青春电影,http://1009.jilu8.cn/yk.php?id=xyqc
+一站到底,http://1009.jilu8.cn/yk.php?id=yzdd
+非你莫属,http://1009.jilu8.cn/yk.php?id=fnms
+女团来了,http://1009.jilu8.cn/yk.php?id=nvtuan
+德云社,http://1009.jilu8.cn/yk.php?id=dys
+罗曼蒂克的时代电影,http://1009.jilu8.cn/yk.php?id=lmdk
+欢乐颂,http://1009.jilu8.cn/yk.php?id=hls
+海底小纵队,http://1009.jilu8.cn/yk.php?id=hdxzd
+筑梦情缘,http://1009.jilu8.cn/yk.php?id=zmqy
+推手,http://1009.jilu8.cn/yk.php?id=ts
+择天记,http://1009.jilu8.cn/yk.php?id=ztj
+楚乔传,http://1009.jilu8.cn/yk.php?id=cqz
+封神榜,http://1009.jilu8.cn/yk.php?id=fsb
+火影忍者,http://1009.jilu8.cn/yk.php?id=hyrz
+谎言的诱惑,http://1009.jilu8.cn/yk.php?id=hydyh
+风云2,http://1009.jilu8.cn/yk.php?id=fy2
+搞笑一家人,http://1009.jilu8.cn/yk.php?id=gxyjr
+爱奇艺,#genre#
+爱奇艺-杨紫,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_qinbaoerge_high_t10/c18_lb_qinbaoerge_high_t10.m3u8
+爱奇艺-胡歌,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c15_lb_huge_1080p_t10/c15_lb_huge_1080p_t10.m3u8
+爱奇艺-赵丽颖,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c15_lb_zhaoliying_1080p_t10/c15_lb_zhaoliying_1080p_t10.m3u8
+爱奇艺-琅琊榜,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c15_lb_langyabang_1080p_t10/c15_lb_langyabang_1080p_t10.m3u8
+爱奇艺-杨幂,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c19_lb_yangmi_720p_t10/c19_lb_yangmi_720p_t10.m3u8
+爱奇艺-唐嫣,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_tangyan_high_t10/c19_lb_tangyan_high_t10.m3u8
+爱奇艺-仙侠玄幻,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
+爱奇艺-抗战剧场,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c20_lb_kangzhanjuchang_high_t10/c20_lb_kangzhanjuchang_high_t10.m3u8
+爱奇艺-军旅剧场,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+爱奇艺-唐嫣,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_tangyan_high_t10/c19_lb_tangyan_high_t10.m3u8
+爱奇艺-神探狄仁杰,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
+爱奇艺-特种兵,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_tezhongbing_high_t10/c19_lb_tezhongbing_high_t10.m3u8
+爱奇艺-怀旧剧场,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c17_lb_huaijiujuchang_high_t10/c17_lb_huaijiujuchang_high_t10.m3u8
+爱奇艺-经典重温,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_jingdianjuchang_high_t10/c20_lb_jingdianjuchang_high_t10.m3u8
+爱奇艺-热播电视剧,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_reboju_high_t10/c18_lb_reboju_high_t10.m3u8
+爱奇艺-收视冠军,http://120.226.57.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_dajuchongwen_high_t10/c20_lb_dajuchongwen_high_t10.m3u8
+爱奇艺-华语院线,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+爱奇艺-谍战剧场,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+爱奇艺-小说改编,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c18_lb_xiaoshuogaibian_720p_t10/c18_lb_xiaoshuogaibian_720p_t10.m3u8
+爱奇艺-豆瓣高分,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+爱奇艺-票房收割机,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
+爱奇艺-温情影院,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
+爱奇艺-口碑年代剧,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c19_lb_koubeiniandaiju_720p_t10/c19_lb_koubeiniandaiju_720p_t10.m3u8
+爱奇艺-央视大剧,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c20_lb_qipashuo_720p_t10/c20_lb_qipashuo_720p_t10.m3u8
+爱奇艺-权谋剧场,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c18_lb_quanmojuchang_720p_t10/c18_lb_quanmojuchang_720p_t10.m3u8
+爱奇艺-伪装者,http://120.226.57.41/r/baiducdncnc.inter.iqiyi.com/tslive/c19_lb_weizhuangzhe_high_t10/c19_lb_weizhuangzhe_high_t10.m3u8
+全国风景,#genre# 
+全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+黟县宏村月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+黟县西递半山亭俯瞰,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+黟县卢村远眺,https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+婺源江岭1,https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+婺源江岭2,https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+黄山始信峰,https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+黄山卧云峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+黄山梦笔生花,https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+黄山光明顶,https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+黄山信兴道,https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+黄山飞来石,https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+云台山红石硖,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+泰山天街,https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+云台山小寨沟,https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+云台山百家岩,https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+云台山茱萸峰,https://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+印象大红袍,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+武夷山大红袍茶园,https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+张家界迷魂台,https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+张家界水绕4门,https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+张家界将军列队,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+凤凰古城,https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+凤凰古城南华山,https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+卢村远眺,https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+宠村月沼,https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+少林寺广场,https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+水长城镜头一,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+水长城镜头二,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+水长城镜头三,https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+水长城镜头四,https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+狮子山鸟瞰古城,https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
+远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+普贤菩萨像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+乐山大佛全景,https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+天涯石,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+日月石,https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
+雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
+嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+大水库,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
+中央电视台中塔西,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+中央电视台中塔南,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+滚滚红尘,http://1009.jilu8.cn/yk.php?id=gghc
+水浒传,http://1009.jilu8.cn/yk.php?id=shz
+我们的八十年代,http://1009.jilu8.cn/yk.php?id=80nd
