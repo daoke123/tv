@@ -22,7 +22,7 @@ cctv17 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225765/index.m3u8
 江西卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225615/index.m3u8
 湖北卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225627/index.m3u8
 黑龙江卫视 HD,http://heb.jilu8.cn/PLTV/88888888/224/3221225640/index.m3u8
-北京卫视高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225749/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226724/index.m3u8 #http://183.207.255.188/live/program/live/bjwshd/4000000/mnf.m3u8
+北京卫视高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225749/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226724/index.m3u8 
 辽宁卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
 东方卫视 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
 CETV1 高清,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
