@@ -34,7 +34,7 @@ cctv17 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225765/index.m3u8
 周口二套经济生活频道在线直播http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
 周口三套科教文化频道http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
 省份频道,#genre# 
-河南卫视,http://183.207.255.188/live/program/live/hnws/1300000/mnf.m3u8
+河南卫视,http://183.207.255.188/live/program/live/hnws/1300000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/hntv.m3u8#http://ivi.bupt.edu.cn/hls/hntv.m3u8
 浙江卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225612/index.m3u8#http://183.207.255.188/live/program/live/zjwshd/4000000/mnf.m3u8
 江苏卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225613/index.m3u8
 湖南卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225610/index.m3u8#http://183.207.255.188/live/program/live/hnwshd/4000000/mnf.m3u8
