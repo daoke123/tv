@@ -30,9 +30,6 @@ cctv17 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225765/index.m3u8
 晴彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 河南公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226127/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226142/index.m3u8
-周口一套新闻综合频道http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8
-周口二套经济生活频道在线直播http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
-周口三套科教文化频道http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
 省份频道,#genre# 
 河南卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221226041/index.m3u8#http://ivi.bupt.edu.cn/hls/hntv.m3u8#http://ivi.bupt.edu.cn/hls/hntv.m3u8
 浙江卫视 高清,http://heb.jilu8.cn/PLTV/88888888/224/3221225612/index.m3u8#http://183.207.255.188/live/program/live/zjwshd/4000000/mnf.m3u8
